@@ -10,6 +10,7 @@
 <f:view>
  this  is test webDemo 
  修改后 提交
+ hello word this is  eclipse test
 </f:view>
 </body>
 </html>
